@@ -1,0 +1,29 @@
+﻿{
+	"Nombre": "No se",
+	"Estado_Inicial": "q0",
+	"Estados" : ["q0", "q1"],
+	"Alfabeto": ["0", "1"],
+	"Estados_Aceptacion": ["q0"],
+	"Trans":[
+		{
+			"Inicio":"q0",
+			"Valor": "0",
+			"Siguiente": ["q1"]
+		},
+		{
+			"Inicio":"q0",
+			"Valor": "1",
+			"Siguiente": ["q1"]
+		},
+		{
+			"Inicio":"q1",
+			"Valor": "0",
+			"Siguiente": ["q0"]
+		},
+		{
+			"Inicio":"q1",
+			"Valor": "1",
+			"Siguiente": ["q0"]
+		},
+	]
+}

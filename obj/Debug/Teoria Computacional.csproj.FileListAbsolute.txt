@@ -1,0 +1,15 @@
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\Teoria Computacional.exe.config
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\Teoria Computacional.exe
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\Teoria Computacional.pdb
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\MaterialSkin.dll
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria Computacional.csprojAssemblyReference.cache
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria_Computacional.Properties.Resources.resources
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria Computacional.csproj.GenerateResource.cache
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria Computacional.csproj.CopyComplete
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria Computacional.exe
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria Computacional.pdb
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria_Computacional.frmInicio.resources
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\Newtonsoft.Json.dll
+C:\Users\padri\source\repos\Teoria Computacional\bin\Debug\Newtonsoft.Json.xml
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria_Computacional.AFD.resources
+C:\Users\padri\source\repos\Teoria Computacional\obj\Debug\Teoria_Computacional.AFN.resources

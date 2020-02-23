@@ -1,0 +1,60 @@
+{
+  "Nombre": "Cadenas terminadas en 01",
+  "Estado_Inicial": "q0",
+  "Estados": [
+    "q0",
+    "q1",
+    "q2"
+  ],
+  "Alfabeto": [
+    "0",
+    "1"
+  ],
+  "Estados_Aceptacion": [
+    "q2"
+  ],
+  "Trans": [
+    {
+      "Inicio": "q0",
+      "Valor": "0",
+      "Siguiente": [
+        "q1"
+      ]
+    },
+    {
+      "Inicio": "q0",
+      "Valor": "1",
+      "Siguiente": [
+        "q0"
+      ]
+    },
+    {
+      "Inicio": "q1",
+      "Valor": "0",
+      "Siguiente": [
+        "q1"
+      ]
+    },
+    {
+      "Inicio": "q1",
+      "Valor": "1",
+      "Siguiente": [
+        "q2"
+      ]
+    },
+    {
+      "Inicio": "q2",
+      "Valor": "0",
+      "Siguiente": [
+        "q1"
+      ]
+    },
+    {
+      "Inicio": "q2",
+      "Valor": "1",
+      "Siguiente": [
+        "q0"
+      ]
+    }
+  ]
+}
